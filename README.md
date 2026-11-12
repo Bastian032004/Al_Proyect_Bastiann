@@ -16,4 +16,4 @@ Explorar las tendencias emergentes en inteligencia artificial utilizando **GitHu
   ![Evidencia de código](./Captura%20de%20pantalla%202026-11-12%20133514.png)
 ### Evidencia de subida a GitHub (Git Push)
 <img width="956" height="904" alt="Captura de pantalla 2026-11-12 141036" src="https://github.com/user-attachments/assets/9076378c-522b-4ad3-9022-4d7959308796" />
-
+<img width="953" height="661" alt="image" src="https://github.com/user-attachments/assets/bba14e9d-ff2e-4081-bbfd-8b71c2a3aac8" />
