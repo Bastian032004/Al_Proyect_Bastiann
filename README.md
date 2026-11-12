@@ -18,3 +18,6 @@ Explorar las tendencias emergentes en inteligencia artificial utilizando **GitHu
 <img width="956" height="904" alt="Captura de pantalla 2026-11-12 141036" src="https://github.com/user-attachments/assets/9076378c-522b-4ad3-9022-4d7959308796" />
 <img width="953" height="661" alt="image" src="https://github.com/user-attachments/assets/bba14e9d-ff2e-4081-bbfd-8b71c2a3aac8" />
 <img width="953" height="853" alt="image" src="https://github.com/user-attachments/assets/c5595004-28e3-474e-bbb3-3c48b2321d00" />
+<img width="948" height="487" alt="Captura de pantalla 2026-11-12 131657" src="https://github.com/user-attachments/assets/cfbae1c5-12fa-44a7-bf6b-03f51b9e63d9" />
+<img width="923" height="866" alt="Captura de pantalla 2026-11-12 132337" src="https://github.com/user-attachments/assets/9a30dd52-417e-4acb-a08a-2278979fc2e1" />
+<img width="950" height="734" alt="Captura de pantalla 2026-11-12 135342" src="https://github.com/user-attachments/assets/2cf73f32-7eea-4116-9ebb-5bc8cfecfd49" />
